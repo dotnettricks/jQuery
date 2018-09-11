@@ -17,4 +17,5 @@ Link : https://www.dotnettricks.com/learn/jquery/selectros-class-attribute-id-tu
 
 ### jQuery Events
 When a user clicks on the button, selecting the item from the dropdown or mouse over the HTML elements, all these kinds of event handling gets simplified by using the jQuery events shortcut functions, in this article, you will learn about following features in jQuery Event handling
+
 Link : https://www.dotnettricks.com/learn/jquery/events-handling
