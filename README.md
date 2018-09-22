@@ -24,3 +24,8 @@ Link : https://www.dotnettricks.com/learn/jquery/events-handling
 jQuery provides the methods which are used to manipulate the attribute in HTML element. In this article, I’m going to share the frequently used jQuery methods used to manipulate the attribute of an HTML element.
 
 Link : https://www.dotnettricks.com/learn/jquery/attribute-manipulation-example
+
+### jQuery Animation
+jQuery provides several methods to add some special effect and animation to our web application. In this article we are going to see those jQuery methods which is used to add some special effect to our web page
+
+Link : https://www.dotnettricks.com/learn/jquery/Animation-effects-code-examples
