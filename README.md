@@ -29,3 +29,8 @@ Link : https://www.dotnettricks.com/learn/jquery/attribute-manipulation-example
 jQuery provides several methods to add some special effect and animation to our web application. In this article we are going to see those jQuery methods which is used to add some special effect to our web page
 
 Link : https://www.dotnettricks.com/learn/jquery/Animation-effects-code-examples
+
+### jQuery Form Validations
+jQuery Form validator is a jQuery plugin which is used to validate the user inputs, which makes our HTML Clean and simple from JavaScript code. It provides a flexibility for all kind of customization to fit your application with ease and it support HTML 5. We can also use the native feature like attributes, Input Types and elements of HTML 5
+
+Link : https://www.dotnettricks.com//learn/jquery/forms-validations-example
